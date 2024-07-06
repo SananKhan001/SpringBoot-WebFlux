@@ -64,5 +64,5 @@ reducing memory and context-switching overhead.
 
 ```
 The system can respond to new requests more quickly because threads
- are freed up promptly after initiating I/O operations.
+are freed up promptly after initiating I/O operations.
 ```
